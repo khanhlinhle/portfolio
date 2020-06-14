@@ -920,7 +920,7 @@ a.totop-link {
     cursor: pointer;
 }
 .introduction-end-con {
-    float: right;
+    text-emphasis: center;
     margin: 30% 0 0;
     width: 30%;
 }
